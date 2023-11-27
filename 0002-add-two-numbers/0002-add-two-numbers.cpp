@@ -41,7 +41,7 @@ public:
             l3->next = new ListNode(car) ;
         }
         
-        return ans->next ;
+        return ans->next ; // karon shuru te 0 ekta node dye create korsilam ja lagbe na hudai so ....
         
     }
 };
